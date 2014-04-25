@@ -5,7 +5,7 @@ body {background-color: black;}
 
 .main {
 	background-color: white;
-	margin-top: 100px;
+	margin-top: 110px;
 	padding-left: 100px;
 	height: 500px;
 	min-width: 1200px;
@@ -40,7 +40,7 @@ height: 494px;
 	height: 90px;
 /*	display: none;*/
 position: relative;
-top: 0;
-left: 0;
+top: 167px;
+left: -212px;
 	float: left;
 }
